@@ -88,6 +88,10 @@ For the AI Coach, get a free API key at [console.groq.com](https://console.groq.
 
 ## 👤 Author
 
+
 **Raghav Ahuja** 
 
 Thadomal Shahani Engineering College · University of Mumbai
+
+
+[ahujaraghav0809@gmail.com](mailto:ahujaraghav0809@gmail.com)
