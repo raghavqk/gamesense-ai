@@ -72,12 +72,21 @@ For the AI Coach, get a free API key at [console.groq.com](https://console.groq.
 
 ## 📸 Screenshots
 
-> Add screenshots here after taking them — drag and drop images into GitHub
+<img width="928" height="459" alt="image" src="https://github.com/user-attachments/assets/876b5d74-4627-4114-abd2-7cb6a2b62bad" />
+
+<img width="928" height="460" alt="image" src="https://github.com/user-attachments/assets/087eb4ee-b4b8-4e19-9ba4-9963dc438c13" />
+
+<img width="928" height="458" alt="image" src="https://github.com/user-attachments/assets/20db255a-25ce-42f1-acd9-9a43af95946b" />
+
+<img width="928" height="456" alt="image" src="https://github.com/user-attachments/assets/eddf1f17-feef-4d9f-804a-80ed9676c77f" />
+
+<img width="928" height="457" alt="image" src="https://github.com/user-attachments/assets/97047e74-e804-4f2c-9184-027562c48958" />
+
+
 
 ---
 
 ## 👤 Author
 
-**Raghav Ahuja** · Roll No: 2303004
-Guide: Prof. Anagha Durugkar
+**Raghav Ahuja** 
 Thadomal Shahani Engineering College · University of Mumbai
