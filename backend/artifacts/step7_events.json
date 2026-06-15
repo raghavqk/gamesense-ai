@@ -1,0 +1,161 @@
+{
+  "kill_events": [
+    {
+      "timestamp_sec": 7.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 11.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 25.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 39.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 65.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 107.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 240.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 245.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 252.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 272.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 280.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 282.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 304.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 402.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 408.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 428.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 442.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 462.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 475.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 476.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 519.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 657.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 766.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 832.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 851.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 853.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 880.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 944.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 948.0,
+      "weapon": "Unknown"
+    },
+    {
+      "timestamp_sec": 973.0,
+      "weapon": "Unknown"
+    }
+  ],
+  "weapon_events": [],
+  "movement_events": [],
+  "kill_timeline": {
+    "7": 1,
+    "11": 1,
+    "25": 1,
+    "39": 1,
+    "65": 1,
+    "107": 1,
+    "240": 1,
+    "245": 1,
+    "252": 1,
+    "272": 1,
+    "280": 1,
+    "282": 1,
+    "304": 1,
+    "402": 1,
+    "408": 1,
+    "428": 1,
+    "442": 1,
+    "462": 1,
+    "475": 1,
+    "476": 1,
+    "519": 1,
+    "657": 1,
+    "766": 1,
+    "832": 1,
+    "851": 1,
+    "853": 1,
+    "880": 1,
+    "944": 1,
+    "948": 1,
+    "973": 1
+  },
+  "weapon_usage": {},
+  "total_kills": 30,
+  "total_weapons_used": 0
+}

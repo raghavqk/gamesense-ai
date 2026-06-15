@@ -1,0 +1,8 @@
+{
+  "original_fps": 60.0,
+  "sample_fps": 2.0,
+  "sample_stride": 30,
+  "sampled_frames": 2024,
+  "duration_sec": 1011.95,
+  "target_width": 960
+}

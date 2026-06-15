@@ -1,0 +1,13 @@
+{
+  "features": {
+    "kill_frequency": 182.0,
+    "movement_clusters": 5.0,
+    "weapon_usage_score": 0.0
+  },
+  "predicted_playstyle": "Defensive",
+  "confidence": {
+    "Aggressive": 0.26666666666666666,
+    "Defensive": 0.4666666666666667,
+    "Passive": 0.26666666666666666
+  }
+}
