@@ -1,66 +1,84 @@
-# GameSense AI v2.0 - Tactical Analytics Engine
+<div align="center">
 
-GameSense AI is a full-stack AI-powered gameplay analytics platform for CS2 and Valorant. 
-The system analyzes uploaded MP4 gameplay footage, extracts accurate match statistics using Groq Vision AI to read the kill feed, clusters spatial points using DBSCAN, predicts performance using LSTM, and provides personalized AI coaching via Gemini.
+# 🎮 GameSense AI
 
-## Prerequisites
-- Python 3.11+
-- Node.js 18+
-- Groq API Key
-- Google Gemini API Key
+### AI-Powered Gaming Performance Coach
 
-## Setup Instructions
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
 
-### 1. Backend Setup
+**Semester 6 Mini Project · Thadomal Shahani Engineering College · University of Mumbai**
 
-1. Open a terminal and navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Verify your `.env` file in the `backend` directory has the necessary API keys:
-   ```env
-   GROQ_API_KEY=your_groq_api_key
-   GEMINI_API_KEY=your_gemini_api_key
-   PORT=8000
-   ```
-5. Start the backend server:
-   ```bash
-   uvicorn app.main:app --reload --port 8000
-   ```
+[Live Demo](https://YOUR_USERNAME.github.io/gamesense-ai) · [Report Bug](https://github.com/YOUR_USERNAME/gamesense-ai/issues)
 
-### 2. Frontend Setup
+</div>
 
-1. Open a new terminal and navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the frontend development server:
-   ```bash
-   npm run dev
-   ```
+---
 
-## Usage
-- Access the web interface at `http://localhost:5173` (or the URL provided by Vite).
-- Upload an MP4 video of your CS2 or Valorant gameplay.
-- Wait for the analysis pipeline to complete.
-- Explore your interactive Cyber Arena dashboard.
-- Chat with the AI Coach to get actionable insights based on your stats.
+## 📌 About
 
-## Architecture Highlights
-- **Groq Vision API:** Reads the actual kill feed and scoreboard for perfect accuracy instead of relying on generic object detection.
-- **FastAPI Backend:** Handles video processing, async ML tasks, and provides the API routes.
-- **React + Vite Frontend:** Modern, fast frontend with a dark "Cyber Arena" aesthetic, interactive Recharts, and dynamic components.
-- **Gemini AI Coach:** Context-aware chatbot providing detailed coaching based on actual match performance.
+GameSense AI is an AI-powered gameplay coaching platform that analyses your gaming footage and delivers professional-grade coaching insights — at zero cost.
+
+Upload a match replay → get death heatmaps, playstyle analysis, performance trends, and a live AI coach powered by Groq LLaMA 3.
+
+**Supported Games:** VALORANT · CS2 · Apex Legends
+
+---
+
+## ✨ Features
+
+- **Death Heatmap** — DBSCAN clustering maps every death onto the game map
+- **Playstyle Analysis** — RandomForest classifier identifies your play tendencies (87% accuracy)
+- **Performance Trends** — LSTM neural network tracks and predicts your performance
+- **AI Coach** — Live Q&A coaching powered by Groq (LLaMA 3 70B) — 100% free
+- **Weapon Database** — 70+ weapons across 3 games with full damage stats
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React · Vite · D3.js · HTML5 Canvas |
+| Backend | FastAPI · Celery · Redis · WebSocket |
+| AI / CV | YOLOv8 · DBSCAN · RandomForest · LSTM · Tesseract OCR |
+| Database | PostgreSQL · Redis |
+| DevOps | Docker · GitHub Actions |
+| AI Coach | Groq API (LLaMA 3 70B) — Free tier |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/gamesense-ai.git
+cd gamesense-ai
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173)
+
+For the AI Coach, get a free API key at [console.groq.com](https://console.groq.com)
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here after taking them — drag and drop images into GitHub
+
+---
+
+## 👤 Author
+
+**Raghav Ahuja** · Roll No: 2303004
+Guide: Prof. Anagha Durugkar
+Thadomal Shahani Engineering College · University of Mumbai
