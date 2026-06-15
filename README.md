@@ -12,7 +12,6 @@
 
 **Semester 6 Mini Project · Thadomal Shahani Engineering College · University of Mumbai**
 
-[Live Demo](https://YOUR_USERNAME.github.io/gamesense-ai) · [Report Bug](https://github.com/YOUR_USERNAME/gamesense-ai/issues)
 
 </div>
 
